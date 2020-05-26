@@ -1,16 +1,12 @@
 # Development Strategy
 
-> `name-of-project`
+> `App-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+A fictional web site for HYF students to improve their front-end and Git workflow skills.
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](wireframe/wireframe-week-2.png)
 
 ## 0. Set-Up
 
@@ -18,8 +14,12 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
-- Write initial, basic README
+- Generated as this [starter template](https://github.com/HackYourFutureBelgium/w3-validation-template)
+- Clone the repository
+- Give a title and description of your project to your README
+- Add meta tags ,css file links and title in the head
+- Add wireframe
+- Push the changes
 - Turn on GitHub Pages
 
 ## 1. __
