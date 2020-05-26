@@ -22,21 +22,26 @@ __A User can see my initial repository and live demo__
 - Push the changes
 - Turn on GitHub Pages
 
-## 1. __
+## 1.Using Flexbox grid into semantic HTML
 
-__full user story description__
+__As coaches, we want to see HTML started with semantic elements with flexbox grid built-in classes without using external style(CSS)__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed on a branch called `semantic-flexbox`
 
 ### HTML
 
-what did you change in the HTML and why?
+- Add semantic elements such as `<header>, <nav>, <section>, <footer>`.
+- Add flexbox `row` class which  is a grid-based layout system `one row separated into 12 columns`
+- Add flexbox grid class such as `col-xs-12,col-sm-8, col-md-6, col-lg-4` to make web site responsive for different screen sizes.
+- Add alignment property `end` for align item into row to start from the end of the row
+- Add alignment property `middle`for align item into row  vertically middle
+- Add same rules above to `about, services, and contact pages`
 
 ### CSS
 
-what did you change in the CSS and why?
+- Nothing has added 
 
 ## 2. ...
 
