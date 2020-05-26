@@ -37,6 +37,7 @@ This user story was developed on a branch called `semantic-flexbox`
 - Add flexbox grid class such as `col-xs-12,col-sm-8, col-md-6, col-lg-4` to make web site responsive for different screen sizes.
 - Add alignment property `end` for align item into row to start from the end of the row
 - Add alignment property `middle`for align item into row  vertically middle
+- Add same rules above to `about, services, and contact pages`
 
 ### CSS
 
