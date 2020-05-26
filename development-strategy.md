@@ -43,7 +43,7 @@ This user story was developed on a branch called `semantic-flexbox`
 
 - Nothing has added 
 
-## 2. ...
+## 2
 
 ...
 
