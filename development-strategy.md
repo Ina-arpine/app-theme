@@ -41,13 +41,25 @@ This user story was developed on a branch called `semantic-flexbox`
 
 ### CSS
 
-- Nothing has added 
+- Nothing has added  
 
-## 2
+## 2. Icons and Imgs
 
-...
+__As coaches, we want to see some fancy icons and imgs on the web pages__
 
-...
+### Repo
+
+This user story was developed on a branch called `icon-img`
+
+### HTML
+
+- Add fontawesome icons to all pages company info section
+- Add phone img to info core features section
+- Change fontawesome links in the head of all pages because  the previous links doesn't apply the fontawesome icons  
+
+### CSS
+
+- Nothing has added  
 
 ## Finishing Touches
 
