@@ -61,6 +61,35 @@ This user story was developed on a branch called `icon-img`
 
 - Nothing has added  
 
+## 3. Custom CSS for Home Page
+
+__As coaches, we want to see the home page stand out in fancy styling__
+
+### Repo
+
+This user story was developed on a branch called `custom-css-home`
+
+### HTML
+
+- Added `middle-xs middle-sm ...` to header row to align content of row vertically in the middle (all pages).
+- fixed `main h1` for sm screen size from `sm-10` to `sm-2` (all pages).
+- Added `center-xs` small for header
+- Remove `end-xs` for extra small screen, it centered now (all pages)
+
+### CSS
+
+- Gave a `margin auto` to class `container` because the container class does not work as a bootstrap container to center itself.
+- Gave img `width 100%`to cover all its columns.
+- Gave `font family` as Sans-serif
+- Gave `Margin 0` to body it has by default a margin
+- Gave `line-height`to give vertically space between lines.
+- Gave a `bottom border`to main Header
+- Gave a `background` img to showcase and centered it in the middle
+- Gave `opacity` to background of showcase content to make it transparency
+- Added `@media query` for specific size to show more responsive
+- Changed `fontawesome icons` color and size
+- Styled the rest`sections and footer` as same styling above
+
 ## Finishing Touches
 
 - Write final, complete README:
