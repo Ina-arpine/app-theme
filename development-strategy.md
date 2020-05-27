@@ -90,10 +90,20 @@ This user story was developed on a branch called `custom-css-home`
 - Changed `fontawesome icons` color and size
 - Styled the rest`sections and footer` as same styling above
 
-## Finishing Touches
+## 4. Custom CSS for the rest Pages
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+__As coaches, we want to see the about,services and custom pages stand out in fancy styling__
+
+### Repo
+
+This user story was developed on a branch called `custom-css-therest`
+
+### HTML
+
+- Added `center-xs` to company info for extra small screen size to be center of the container(all pages)
+
+### CSS
+
+- Gave `margin bottom` to main content for `about` page
+- Reset company info background as `#333`
+- `li:nth-child` used in `services` page to style for even or odd lists
