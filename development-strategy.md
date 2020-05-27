@@ -107,3 +107,22 @@ This user story was developed on a branch called `custom-css-therest`
 - Gave `margin bottom` to main content for `about` page
 - Reset company info background as `#333`
 - `li:nth-child` used in `services` page to style for even or odd lists
+
+## 5. Validation
+
+__As coaches, we want to see all pages are validated by [Markup Validation Service](https://validator.w3.org/) and [CSS Validation Service](https://jigsaw.w3.org/css-validator/)__
+
+### Repo
+
+This user story was developed on a branch called `validation`
+
+### HTML
+
+- `<div>` remove from line 100 which is stray end tag(index.html)  
+- `h1` changed to `h2`, warning: consider using the h1 element as a top-level heading only(index.html, about.html, services and contact.html)
+- The value of the `for` attribute of the label element must be the ID of a non-hidden form control thus added `id` per label(contact.html)
+- Changed `font-awesome` links it was not work on github for live page
+
+### CSS
+
+- changed `h1` selector to `h2`
